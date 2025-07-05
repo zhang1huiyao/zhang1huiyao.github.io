@@ -13,8 +13,5 @@ Research Interests
 ======
 I have a strong interest in multimodal large models, computer vision, and spatial intelligence. My current research aims to enhance segmentation model performance under zero-shot training conditions through the design of reasoning chains for large models.
 
-Research Contributions
-======
-As I am in my first year with the research group, I have not yet produced published work but am actively progressing in my research. I will update my achievements in the near future.
 
 
