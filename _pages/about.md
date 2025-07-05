@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master's student at the Aerospace School of the University of Chinese Academy of Sciences, within the AI Research Group, supervised by Professor Li Ye. My research focuses on LLMS and computer vision, with particular attention to the design of reasoning chains in multimodal large language models, zero-shot learning, and their applications.
+I am currently a master's student at the Aerospace School of the University of Chinese Academy of Sciences, within the AI Research Group, supervised by Professor Li Ye. My research focuses on multimodal large language models(LLMs) and computer vision, with particular attention to the design of reasoning chains in multimodal large language models, zero-shot learning, and their applications.
 
 Research Interests
 ======
